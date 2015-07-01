@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Secret File:
+oauth_file.py
