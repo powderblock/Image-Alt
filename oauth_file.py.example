@@ -1,0 +1,2 @@
+def OAuth_Info(r):
+    r.set_oauth_app_info(client_id='viewJ4vy8OUzmW', client_secret='1337xxP90xLxtXxxABCxx360xxx',  redirect_uri='https://github.com/powderblock/Image-Alt')
